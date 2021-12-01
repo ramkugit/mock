@@ -2,6 +2,6 @@ baseURL = "https://ramkugit.github.io/mock/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 #Theme = "hugo-theme-jane-master" 
-#Theme = "hugo-theme-color-your-world-master" 
-theme = "ananke" 
+theme = "hugo-theme-color-your-world-master" 
+#theme = "ananke" 
 
