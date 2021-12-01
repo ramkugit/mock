@@ -3,5 +3,5 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 #Theme = "hugo-theme-jane-master" 
 #Theme = "hugo-theme-color-your-world-master" 
-Theme = "ananke" 
+theme = "ananke" 
 
