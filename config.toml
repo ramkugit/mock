@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ramkugit.github.io/mock/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 #Theme = "hugo-theme-jane-master" 
